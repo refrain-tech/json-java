@@ -1,0 +1,4 @@
+Main-Class: net.refrain.jsontest.Main
+Class-Path: ..\lib\json-java.jar
+Created-By: stleary
+Manifest-Version: 1.0
